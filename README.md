@@ -222,4 +222,4 @@ Claude Opus 4.6 embedded directly in the dashboard via Palantir AIP. Accesses al
 
 ---
 
-*Built as part of an ongoing project to combine financial modeling with enterprise data engineering. Data sourced from Apple Inc. public financial filings.*
+*Built as part of an ongoing project to combine financial modeling with enterprise data engineering. *Data sourced from Apple Inc. public financial filings. Raw data downloaded from [Macrotrends](https://www.macrotrends.net).*
