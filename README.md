@@ -193,7 +193,7 @@ Apple-Financial-Intelligence/
 ## Author
 
 **Japnoor Singh**
-[GitHub](https://github.com/japnoorsingh) | [LinkedIn]([https://linkedin.com/in/japnoorsingh](https://www.linkedin.com/in/japnoor-singh-85393a146/))
+[GitHub](https://github.com/japnoorsingh) | [LinkedIn](https://www.linkedin.com/in/japnoor-singh-85393a146/)
 
 ---
 
